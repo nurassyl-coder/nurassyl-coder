@@ -25,6 +25,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurassyl-coder&theme=radical)  
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=nurassyl-coder&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## 🌐 Connect with Me  
