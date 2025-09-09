@@ -6,9 +6,8 @@ I’m devoted to turning ideas into polished mobile experiences and continuously
 Always curious, I’m learning new technologies in mobile and backend development.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-https://camo.githubusercontent.com/22f442795c91e0a7f3a7d4461ed87da0442a03f2709711f214416fc8d3b5d0e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebase]([https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black](https://camo.githubusercontent.com/22f442795c91e0a7f3a7d4461ed87da0442a03f2709711f214416fc8d3b5d0e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46697265626173652d4646434132383f7374796c653d666c6174266c6f676f3d6669726562617365266c6f676f436f6c6f723d626c61636b))
 
 ## Socials
 Telegram
