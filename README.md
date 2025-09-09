@@ -29,5 +29,5 @@
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%D2%B1%D1%80%D0%B0%D1%81%D1%8B%D0%BB-%D0%BC%D2%B1%D1%85%D0%B0%D0%BC%D0%B1%D0%B5%D1%82%D0%B0%D0%BB%D1%8B%D2%B1%D0%BB%D1%8B-455236383/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mukhambetalynurassyl@gmail.com@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%D2%B1%D1%80%D0%B0%D1%81%D1%8B%D0%BB-%D0%BC%D2%B1%D1%85%D0%B0%D0%BC%D0%B1%D0%B5%D1%82%D0%B0%D0%BB%D1%8B%D2%B1%D0%BB%D1%8B-455236383)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mukhambetalynurassyl@gmail.com)  
