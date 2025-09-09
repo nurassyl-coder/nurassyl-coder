@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Nurassyl  
 
 ## 🚀 About Me  
-- 📱 Passionate **mobile developer** building apps with **Flutter, BLoC, and Firebase**  
+- 📱 Passionate **mobile developer** building apps with **Flutter, and Firebase**  
 - 🛠️ Love turning ideas into clean and user-friendly apps  
 - 🌱 Always learning new tech in **mobile & backend development**  
 - ✨ Interested in productivity tools, educational bots, and lifestyle trackers  
