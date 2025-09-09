@@ -5,6 +5,9 @@ I love building solutions that address real needs — whether it’s productivit
 I’m devoted to turning ideas into polished mobile experiences and continuously honing my skills.  
 Always curious, I’m learning new technologies in mobile and backend development.
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ## Socials
 Telegram
