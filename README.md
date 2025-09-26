@@ -22,7 +22,7 @@
 
 ![Nurassyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurassyl-coder&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurassyl-coder&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurassyl-coder&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurassyl-coder&theme=radical)  
 
