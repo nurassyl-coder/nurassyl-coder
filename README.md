@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nurassyl  
+# Hi there 👋
 
 ## 🚀 About Me  
 - 📱 Passionate **mobile developer** building apps with **Flutter, and Firebase**  
@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats  
 
-![Nurassyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurassyl-coder&show_icons=true&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurassyl-coder&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurassyl-coder&layout=compact&theme=radical)
 
