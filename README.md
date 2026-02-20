@@ -28,9 +28,3 @@
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=nurassyl-coder&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%D2%B1%D1%80%D0%B0%D1%81%D1%8B%D0%BB-%D0%BC%D2%B1%D1%85%D0%B0%D0%BC%D0%B1%D0%B5%D1%82%D0%B0%D0%BB%D1%8B%D2%B1%D0%BB%D1%8B-455236383)   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mukhambetalynurassyl@gmail.com)   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nurassy1_m)
